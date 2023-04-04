@@ -26,6 +26,9 @@
 ## http://localhost:8081/auth/employee/1
 ![image](https://user-images.githubusercontent.com/92662661/229683295-2f9eadcc-5d4d-4fc5-ad3d-bef6f191f27d.png)
 
+## http://localhost:8081/auth/employee/2
+
+![image](https://user-images.githubusercontent.com/92662661/229683477-87884973-27f8-4bb7-a6ca-a8658c9341d0.png)
 
 ## http://localhost:8081/auth/employee
 [
